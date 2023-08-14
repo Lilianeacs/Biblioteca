@@ -7,6 +7,7 @@
         public string Categoria;
         public string Autor;
         public string Editora;
+        public bool Alugado;
 
         public Livro(string Titulo, string Categoria, string Autor, string Editora)
         {
@@ -15,7 +16,9 @@
             this.Categoria = Categoria;
             this.Autor = Autor;
             this.Editora = Editora;
+            this.Alugado = false;
         }
-        // verificar disponibillidade do livro
+        
+
     }
 }
