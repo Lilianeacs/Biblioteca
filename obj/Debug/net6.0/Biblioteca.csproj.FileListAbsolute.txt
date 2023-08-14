@@ -1,0 +1,15 @@
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\bin\Debug\net6.0\Biblioteca.exe
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\bin\Debug\net6.0\Biblioteca.runtimeconfig.json
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\obj\Debug\net6.0\Biblioteca.genruntimeconfig.cache
+D:\BTG_EXERC\MODOLO_1-C#\Exercícios\Exercicio-aula4\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
